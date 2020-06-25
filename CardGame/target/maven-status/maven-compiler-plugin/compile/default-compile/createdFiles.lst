@@ -1,0 +1,5 @@
+CardGame/Card.class
+CardGame/GamePlayer.class
+CardGame/Card$Value.class
+CardGame/Card$Suit.class
+CardGame/CardHand.class
